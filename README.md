@@ -4,11 +4,13 @@
   <p class="paragraph">I am a passionate react front-end developer focused on delivering high quality technology products. I enjoy learning, being in constant search of new knowledge and I like to keep you updated on the latest trends and technological advances. My thirst for learning drives me to explore different areas and acquire new skills.</p>
 </div>
 
-<img src="https://img.shields.io/badge/Tools%20I%20use:-orange" alt="Tools" title="Tools" height="25" /><br>
+<p align="center">
+<img src="https://img.shields.io/badge/Programming%20languages%20and%20tools%20I%20use:-be0032" alt="Tools" title="Tools" height="25" /><br>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,javascript,react,python,cs,java,django,mysql,postman,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,figma,ps,javascript,react,python,cs,java,django,mysql,postman,git,github,vscode" />
   </a>
 </p>
 
@@ -54,18 +56,21 @@
 
 -->
 
+<p align="center">
+<img src="https://img.shields.io/badge/I%20spent%20my%20time%20on:-be0032" alt="Tools" title="Tools" height="25" /><br>
+</p>
+
 <h4 align="center">
-I Spent My Time On:
 
 ```text
 
 💬 Programming Languages: 
 
 JavaScript
-██████████████████████░░░   85% 
+███████████████████░░░░░░   80% 
 
 HTML + CSS (SASS)
-████░░░░░░░░░░░░░░░░░░░░░   10% 
+██████░░░░░░░░░░░░░░░░░░░   15% 
 
 Other
 ██░░░░░░░░░░░░░░░░░░░░░░░   5% 
@@ -76,7 +81,11 @@ VS Code
 █████████████████████████   100.0%
 
 ```
-</h3>
+</h4>
+
 <img src="https://imgur.com/rilHVxA.png"/> 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ginny100.ginny100)
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Carlos-Martz" alt="Visitor Badge">
+</p>
+
