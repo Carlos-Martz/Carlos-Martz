@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Programming%20languages%20and%20tools%20I%20use:-be0032" alt="Tools" title="Tools" height="25" /><br>
+<img src="https://img.shields.io/badge/Programming%20languages%20and%20tools%20I%20use:-323330" alt="Tools" title="Tools" height="25" /><br>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 -->
 
 <p align="center">
-<img src="https://img.shields.io/badge/I%20spent%20my%20time%20on:-be0032" alt="Tools" title="Tools" height="25" /><br>
+<img src="https://img.shields.io/badge/I%20spent%20my%20time%20on:-323330" alt="Tools" title="Tools" height="25" /><br>
 </p>
 
 <h4 align="center">
