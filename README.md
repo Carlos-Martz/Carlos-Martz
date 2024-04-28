@@ -4,7 +4,7 @@
   <p class="paragraph">I am a passionate react front-end developer focused on delivering high quality technology products. I enjoy learning, being in constant search of new knowledge and I like to keep you updated on the latest trends and technological advances. My thirst for learning drives me to explore different areas and acquire new skills.</p>
 </div>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Programming%20languages%20and%20tools%20I%20use:-323330" alt="Tools" title="Tools" height="25" /><br>
 </p>
 
@@ -56,7 +56,7 @@
 
 -->
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/I%20spent%20my%20time%20on:-323330" alt="Tools" title="Tools" height="25" /><br>
 </p>
 
