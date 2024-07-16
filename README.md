@@ -43,7 +43,17 @@ VS Code
 
 <img src="https://imgur.com/rilHVxA.png"/> 
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Carlos-Martz" alt="Visitor Badge">
+
+
+<!--
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Carlos-Martz&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Carlos-Martz" alt="Visitor Badge">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Carlos-Martz" alt="Visitor Badge">
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Carlos-Martz&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
+-->
