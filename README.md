@@ -41,7 +41,7 @@ VS Code
 ```
 </h4>
 
-<img src="https://imgur.com/rilHVxA.png"/> 
+<img src="https://i.imgur.com/rilHVxA.png"/> 
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Carlos-Martz" alt="Visitor Badge">
 
