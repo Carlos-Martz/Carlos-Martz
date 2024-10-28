@@ -2,7 +2,7 @@
 
 <strong>I'm a passionate full-stack developer focused on delivering high quality technology products. I enjoy learning, being in constant search of new knowledge and I like to keep you updated on the latest trends and technological advances. My thirst for learning drives me to explore different areas and acquire new skills.</strong>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"/> Programming languages and tools I use:<div align="center"><br><a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,react,python,django,astro,java,mysql,postman,git,github,vscode"/></a></div><br>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"/> Programming languages and tools I use most:<div align="center"><br><a href="#"><img src="https://skillicons.dev/icons?i=figma,html,css,javascript,bootstrap,react,astro,python,django,mysql,postman,git,github,vscode"/></a></div><br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cb3b6056-fc79-4d24-a197-250e343f1d07" alt="xK" width="100%"/>
