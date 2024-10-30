@@ -1,6 +1,6 @@
 # <div align="center"> Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /> I'm Carlos Martínez </div>
 
-<strong>I'm a passionate full-stack developer focused on delivering high quality technology products. I enjoy learning, being in constant search of new knowledge and I like to keep you updated on the latest trends and technological advances. My thirst for learning drives me to explore different areas and acquire new skills.</strong>
+<strong>I'm a full-stack developer focused on delivering high quality technology products. I enjoy learning, being in constant search of new knowledge and I like to keep you updated on the latest trends and technological advances. My thirst for learning drives me to explore different areas and acquire new skills.</strong>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"/> Programming languages and tools I use most:<div align="center"><br><a href="#"><img src="https://skillicons.dev/icons?i=figma,html,css,javascript,bootstrap,react,astro,python,django,mysql,postman,git,github,vscode"/></a></div><br>
 
